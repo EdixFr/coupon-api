@@ -2,14 +2,14 @@
   "coupons": [
     {
       "store": "Migros",
-      "logo": "https://...",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Migros_logo.svg/512px-Migros_logo.svg.png",
       "code": "MIGROS100",
       "description": "100 TL üzeri 20 TL indirim",
       "expire": "31.07.2026"
     },
     {
       "store": "Domino's",
-      "logo": "https://...",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dominos_pizza_logo.svg/512px-Dominos_pizza_logo.svg.png",
       "code": "PIZZA50",
       "description": "Büyük boy pizzada %50 indirim",
       "expire": "10.08.2026"
