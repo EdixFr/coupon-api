@@ -1,0 +1,20 @@
+[
+  {
+    "store": "Migros",
+    "code": "MIGROS100",
+    "description": "100 TL üzeri 20 TL indirim",
+    "logo": "https://..."
+  },
+  {
+    "store": "Domino's",
+    "code": "PIZZA50",
+    "description": "Büyük boy pizzada %50 indirim",
+    "logo": "https://..."
+  },
+  {
+    "store": "Trendyol",
+    "code": "TREND50",
+    "description": "500 TL üzeri 50 TL indirim",
+    "logo": "https://..."
+  }
+]
