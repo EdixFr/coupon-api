@@ -2,7 +2,7 @@
   "coupons": [
     {
       "store": "Migros",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Migros_logo.svg/512px-Migros_logo.svg.png",
+      "logo":"https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png"
       "code": "MIGROS100",
       "description": "100 TL üzeri alışverişte 20 TL indirim",
       "expire": "31.07.2026"
