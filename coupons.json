@@ -2,10 +2,38 @@
   "coupons": [
     {
       "store": "Migros",
-      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Migros_logo.svg/512px-Migros_logo.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Migros_logo.svg/512px-Migros_logo.svg.png",
       "code": "MIGROS100",
-      "description": "100 TL üzeri 20 TL indirim",
+      "description": "100 TL üzeri alışverişte 20 TL indirim",
       "expire": "31.07.2026"
+    },
+    {
+      "store": "Domino's Pizza",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dominos_pizza_logo.svg/512px-Dominos_pizza_logo.svg.png",
+      "code": "PIZZA50",
+      "description": "250 TL üzeri siparişlerde %20 indirim",
+      "expire": "15.08.2026"
+    },
+    {
+      "store": "CarrefourSA",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Carrefour_logo.svg/512px-Carrefour_logo.svg.png",
+      "code": "CARRE40",
+      "description": "Seçili ürünlerde 40 TL indirim",
+      "expire": "20.08.2026"
+    },
+    {
+      "store": "Getir",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Getir_logo.svg/512px-Getir_logo.svg.png",
+      "code": "GETIR75",
+      "description": "İlk siparişe 75 TL indirim",
+      "expire": "30.09.2026"
+    },
+    {
+      "store": "Yemeksepeti",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yemeksepeti_logo.svg/512px-Yemeksepeti_logo.svg.png",
+      "code": "YEMEK100",
+      "description": "400 TL üzeri siparişlerde 100 TL indirim",
+      "expire": "10.10.2026"
     }
   ]
 }
